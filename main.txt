@@ -1,5 +1,9 @@
 this is main file
 this is new code
 this line of code written by devA.
+<<<<<<< HEAD
 this line of code written by devB.
 help for guru.
+=======
+it is also copy in master
+>>>>>>> devA
